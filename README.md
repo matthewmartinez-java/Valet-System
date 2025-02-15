@@ -6,8 +6,8 @@ The simulation is highly interactive, using utility functions like writeToScreen
 
 
 Features:
-**-Vehicle Management: **  Handles dynamic parking of vehicles, keeping track of details like vehicle ID, owner name, parking spot, etc.
-**-Efficient Retrieval System: ** Allows for quick retrieval of vehicles by parking spot or ID, minimizing retrieval time
+-Vehicle Management: Handles dynamic parking of vehicles, keeping track of details like vehicle ID, owner name, parking spot, etc.
+-Efficient Retrieval System: Allows for quick retrieval of vehicles by parking spot or ID, minimizing retrieval time
 
 Technologies Used:
 -Programming Language: C++
