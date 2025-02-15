@@ -17,3 +17,6 @@ Future Enhancements:
 -Integration with databases for long-term vehicle data storage
 -Web-based or mobile application for ease of user access
 -Implementing automatic parking assistance using sensors (conceptually)
+
+
+Credits: Matthew Martinez, Ahmad Harris, William Wong
